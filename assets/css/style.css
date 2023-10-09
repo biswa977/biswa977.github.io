@@ -162,8 +162,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     display: flex;
     align-items: center;
     justify-content: center;
-    position:relative;
-    background:url(../images/about/welcome-banner.png)no-repeat;
+    position:relative; /* HERE HERE HERE HERE HERE HERE HERE HERE*/
+    background:url(../images/about/welcome-banner.jpeg)no-repeat;
     background-size:cover;
     background-position: center;
     height:890px;
